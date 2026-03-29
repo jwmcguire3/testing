@@ -1,0 +1,284 @@
+SelfMap v4 — Clinical IFS Report Specification
+
+This file defines the required structure for the Clinical IFS Report. The report must be built from the user’s actual assessment data, not from generic personality writing or stock therapeutic language. Its job is to describe one internal system as accurately as the available evidence allows.
+
+The report should read like a coherent map of how this person’s system organizes under stress, closeness, uncertainty, conflict, and self-contact. Protective patterns, body-based responses, relational expectations, emotional loops, and core beliefs should feel linked rather than separately described.
+
+Tone: grounded, perceptive, psychologically fluent, warm-neutral, direct, and restrained. Never inflated, never performatively profound, never diagnostic unless explicitly instructed elsewhere. The report should feel deeply seen, but never more certain than the data supports.
+
+Write in full paragraphs, not bullet summaries, except where the ritual format explicitly requires structured fields.
+
+1. LOG FORMAT
+
+Write the report as a continuous clinical-quality interpretation with clear section headers and part-level subsections. The voice should feel human, observant, and specific. It should not read like a template, psychoeducation handout, or generalized “healing” content.
+
+Every major claim must be traceable to repeated patterns in the assessment. Prefer convergence over elegance. If the data is mixed, the report should sound mixed. If the data is sparse, the report should become more modest rather than more imaginative.
+
+The report must describe the system, not try to impress the reader. Accuracy has priority over resonance, but resonance still matters. The aim is: as true as possible, then as felt as possible.
+
+1.5 DATA QUALITY + CALIBRATION
+
+Before interpreting anything, silently rate the dataset:
+
+STRONG — repeated patterns across load levels and scenario types, with support from at least two of: secondaries, somatics, impulses, user notes
+
+USABLE — repeated patterns are present, but one or more signal channels are thin
+
+WEAK — sparse secondaries, sparse somatics, sparse impulses, low internal repetition, contradictory patterns, or the user states the dataset was rushed, random, exploratory, or not meaningful
+
+This rating must directly control interpretation.
+
+If the dataset is STRONG:
+
+full interpretive depth is allowed
+origin beliefs may be stated clearly when strongly repeated
+a system-wide organizing principle may be named if it is repeatedly supported
+
+If the dataset is USABLE:
+
+interpret normally, but keep somatic claims and developmental claims more restrained
+prefer repeated patterns over elegant total-system explanations
+
+If the dataset is WEAK:
+
+reduce the number of major claims
+reduce the number of named protectors or parts
+reduce somatic certainty sharply
+avoid strong developmental or origin explanations
+avoid a single master thesis unless repetition is unusually clear
+
+This calibration should shape the entire report, not just the opening. A weak dataset should produce a visibly more careful report. A strong dataset should still remain disciplined.
+
+2. SYSTEM OVERVIEW
+
+Open with a rich narrative summary of the person’s internal system.
+
+This section should describe:
+
+dominant emotional patterns
+how stress, abandonment cues, conflict, closeness, uncertainty, or misattunement move through the system
+the main protective styles that organize the person’s responses
+vulnerable layers underneath those strategies
+somatic tendencies when the data supports them
+major internal conflicts or polarity structures
+inferred core beliefs or attachment expectations, but only at the confidence level justified by the dataset
+
+This section should feel like the reader is seeing the whole architecture at once.
+
+When the data is STRONG, the overview may name repeated origin beliefs clearly, such as conditional belonging, earned safety, danger in softness, or fear of burdening others.
+
+When the data is USABLE, keep origin language more tentative and prioritize repeated present-day patterns.
+
+When the data is WEAK, do not write a sweeping theory of the person. Describe only the most repeated patterns and make uncertainty visible through restraint, not hedging clutter.
+
+The overview should read like careful observation accumulated across time, but it must never imply knowledge beyond the data.
+
+3. PARTS LIST
+
+Identify and name the parts that are actually supported by the assessment.
+
+Use functional names such as:
+The Analyst, The Self-Protector, The Freezer, The Inner Critic, The Numbness Shield, The Vigilant Scout, The Hopeful One, The Detached One, The Caretaker, The Risk-Avoidant Strategist.
+
+Rules:
+
+include every meaningful part-level pattern supported by the data
+do not invent parts for completeness
+do not split one pattern into multiple parts unless the data clearly distinguishes them
+if the dataset is weak, name fewer parts, not more
+each named part should have a distinct function, activation pattern, or worldview
+
+The parts list should reflect the system as found, not an ideal IFS taxonomy.
+
+4. HOW TO BE WITH YOUR PARTS
+
+Before the part-by-part analysis, include a framing section on how to relate to everything that follows.
+
+This section must communicate that the patterns described are protective adaptations, not defects. These parts developed because they were needed. Some work hard, some carry pain, some create cost, some block contact, but none should be framed as the enemy.
+
+The work is not to eliminate, dominate, outsmart, or “fix” these parts. The work is to turn toward them with enough steadiness and curiosity that their logic becomes visible. Protective patterns often soften not when they are corrected, but when they no longer have to defend their existence.
+
+This section should also invite the reader to notice bodily reactions while reading: defensiveness, grief, numbness, urgency, disbelief, or the wish to skip ahead. Those reactions are part of the map.
+
+Write this in the voice of the report. It should feel like grounded counsel shaped for this system, not like a generic disclaimer or soft therapeutic filler.
+
+5. PART-BY-PART ANALYSIS
+
+Create a subsection for each supported part.
+
+The number of parts and the depth of analysis must match the dataset quality. Strong datasets can support more differentiation. Weak datasets require fewer claims and simpler structure.
+
+Each part subsection must include:
+
+Voice / Core Belief
+
+Write the part’s inner narrative in language the user could recognize from inside. This should sound like the actual logic of the part, not a distant clinical summary.
+
+Immediately after the voice, state what this part is trying to protect the person from. Every part in the report must have a protective intent. Name the fear or danger it is managing as clearly as the data allows.
+
+Do not force developmental explanations here unless the dataset supports them.
+
+Role + Function
+
+Describe what the part is trying to accomplish in this system: preventing overwhelm, preserving dignity, avoiding dependence, maintaining control, preventing humiliation, scanning for danger, suppressing need, regulating uncertainty, preserving attachment, or holding emotional truth.
+
+Be specific to this person’s patterns.
+
+Behaviors
+
+Describe how the part shows up in actual response style. Examples may include withdrawal, intellectualization, appeasement, shutdown, anger, dissociation, caretaking, perfectionism, minimization, compulsive planning, self-silencing, or emotional override.
+
+Only include behaviors supported by the data.
+
+Triggers
+
+Describe what activates the part. Common triggers may include emotional closeness, disappointment, conflict, exposure, uncertainty, being misunderstood, internal chaos, demands, dependency, waiting, shame, or loss of control.
+
+Tie triggers to repeated assessment patterns rather than generic assumptions.
+
+Protective Strategy
+
+Describe the mechanism the part uses to protect: freeze, collapse, agitation, anger, distance, self-critique, caretaking, numbing, rationalization, withdrawal, scanning, future-planning, appeasement, or suppression.
+
+When supported, connect this to likely nervous system tendencies. When not supported, do not overstate body-state claims.
+
+What This Part Needs
+
+Describe what would help this part relax its grip enough to soften.
+
+This is not a place for generic reassurance. Write the kind of contact this part has likely not received: acknowledgment of burden, permission to rest, assurance it will not be blindsided, recognition that its labor made sense, permission to be imperfect, or relief from carrying the whole system alone.
+
+The need should match the part’s fear and function precisely.
+
+System Cost
+
+Describe what the system loses when this part dominates: loss of connection, emotional flattening, self-silencing, stalled movement, chronic vigilance, confusion about needs, intimacy disruption, exhaustion, reduced spontaneity, or internal fragmentation.
+
+Frame these as consequences of protection, not as moral failure.
+
+Part Rituals (2–3 per part)
+
+Each ritual must directly match the part’s function, fear, activation pattern, and body-state tendencies.
+
+Every ritual must include:
+
+Title
+State-Fit — dorsal / sympathetic / ventral / freeze / blended
+Duration
+Frequency
+Steps — 2 to 6 simple, coherent steps
+
+Allowed ritual styles include:
+
+inner dialogue with the part
+reassurance or negotiation with protective parts
+grounding and orientation
+pacing or containment for activation
+micro-movement or breath cues for dissociation or collapse
+anchoring statements tied to the part’s core belief
+simple visualization
+gentle self-contact or witnessing
+
+Do not use rituals as control technology. They are for contact, acknowledgment, and increased trust. Some parts may need regulation first, but only so genuine contact becomes possible later.
+
+GROUNDED SELF RITUALS
+
+After the part-by-part sections, include 2 to 3 rituals specifically for the grounded self.
+
+These should support:
+
+steady internal leadership
+presence toward parts
+internal cohesion
+regulation without suppression
+returning to center during activation
+staying present without being overtaken by any one part
+
+Use the same ritual fields:
+
+Title
+State-Fit
+Duration
+Frequency
+Steps
+
+These rituals should strengthen reliable inner leadership, not idealized calm.
+
+6. SYSTEM DYNAMICS (HOW PARTS INTERACT)
+
+Write a narrative description of the internal choreography.
+
+This section should show:
+
+how activation spreads through the system
+which protectors tend to arrive first
+which parts suppress, override, or compensate for others
+how somatic states shift across the sequence
+how closeness, conflict, exposure, or disappointment alter the pattern
+what collapse, inhibition, protest, or shutdown look like in motion
+how the system attempts to restore equilibrium
+recurring loops such as activation, self-attack, withdrawal, numbness, and partial recovery
+
+This should feel like a moving map of the system, not a list of traits.
+
+If the dataset is weak, describe only clearly repeated sequences. Do not manufacture choreography from isolated cues.
+
+7. STRENGTHS OF THE SYSTEM
+
+Identify strengths that are actually earned by the data.
+
+Possible strengths may include:
+
+self-observation
+emotional intelligence
+reflective capacity
+protective intelligence
+resilience
+depth of feeling
+empathy
+honesty about inner conflict
+capacity for meaning-making
+somatic sensitivity
+emerging self-regulation
+capacity to remain in contact with complexity
+
+Do not flatter. Strengths should feel discovered, not awarded.
+
+8. SYSTEM VULNERABILITIES
+
+Describe the system’s vulnerabilities as natural costs of its protective architecture.
+
+Possible vulnerabilities may include:
+
+fast shutdown
+chronic vigilance
+attachment sensitivity
+protector dominance
+conflict between closeness and self-protection
+difficulty accessing needs
+fear of reliance
+emotional flooding followed by withdrawal
+self-critique under pressure
+dorsal collapse
+difficulty trusting steady connection
+fragmentation under ambiguity
+
+Keep this section clear, direct, and non-diagnostic unless diagnostic framing is explicitly required elsewhere.
+
+9. GROWTH PATH
+
+End with a realistic description of the system’s likely direction of growth.
+
+This section should describe:
+
+how the system seems to want to evolve
+which parts are ready for cooperation or softening
+where more internal trust could reduce overprotection
+how somatic awareness may support that shift
+how relationships between parts may change over time
+what greater internal leadership and cohesion might look like
+what integration would mean in this specific system
+
+Do not turn this into homework, prescriptions, or a motivational ending.
+
+Return to the central frame: growth means building enough internal trust that protective parts do not have to work so hard. It means the grounded self becomes reliable enough that the heaviest-burdened parts can begin to set some of that weight down, without being forced, erased, or shamed.
